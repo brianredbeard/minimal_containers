@@ -81,7 +81,7 @@ At this point the image is ready to be used.
 ## Relevant Links
 
   * [Buildroot](http://www.buildroot.org) - A SDK for building minimal Linux distributions like OpenWRT.
-  * [Alpine](https://www.alpinelinux.org/) - A streamlined Linux distro focused on security, and lightweight footprint.  Compiled using [musl libc](http://www.musl-libc.org/) vs GLIBC.
+  * [Alpine](https://www.alpinelinux.org/) - A streamlined Linux distro focused on security, and lightweight footprint.  Compiled using [musl libc](http://www.musl-libc.org/) vs GLIBC.  Quite a bit of work around Alpine has been done by [Jeff Lindsay](https://github.com/progrium).
   * [debootstrap](https://wiki.debian.org/Debootstrap) - A tool to build a Debian system into a subdirectory on a Linux host.
   * [YUM](http://yum.baseurl.org/) / [DNF](http://dnf.baseurl.org/) - Similar principal to debootstrap.  Here are a couple of examples - [Example 1](https://web.archive.org/web/20150514123601/http://prefetch.net/articles/yumchrootlinux.html) & [Example 2](https://web.archive.org/web/20141203222350/http://zaufi.github.io/administration/2014/06/10/howto-make-a-centos-chroot/)
   * [Gentoo](https://www.gentoo.org/downloads/) - You can directly import the Gentoo "Stage 3 Archive" image and work with it.  Emerge packages, do compiles, etc.
