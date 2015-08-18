@@ -24,7 +24,7 @@ When this talk was first done (München, 2015-02-03) there was very little in
 the way of documentation around this process.  Back in June docker began
 providing documentation around doing [this](https://github.com/docker/docker/blob/master/docs/articles/baseimages.md).
 
-The video for the presentation can be found here: [TBD](#TBD)
+The video for the presentation can be found here: [Getting weird with containers](https://www.youtube.com/watch?v=gMpldbcMHuI)
 
 ## Basic Concept
 
