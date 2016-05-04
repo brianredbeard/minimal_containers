@@ -21,8 +21,9 @@ insufficient for the author.  This required finding a different process for
 building a busybox image, only using GLIBC.  Enter "Buildroot".
 
 When this talk was first done (München, 2015-02-03) there was very little in
-the way of documentation around this process.  Back in June docker began
-providing documentation around doing [this](https://github.com/docker/docker/blob/master/docs/articles/baseimages.md).
+the way of documentation around this process.  Back in June of 2015 Docker began
+providing documentation around doing [this](https://github.com/docker/docker/blob/master/docs/userguide/eng-image/baseimages.md)
+(note: URL updated as the original file moved and seems to have been re-written).
 
 The video for the presentation can be found here: [Getting weird with containers](https://www.youtube.com/watch?v=gMpldbcMHuI)
 
