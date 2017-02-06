@@ -189,7 +189,7 @@ is being used.
 
 Once `make menuconfig` is started you should see a window as follows:
 
-![/images/make_menuconfig_main.png]
+![buildroot screenshot](/images/make_menuconfig_main.png)
 
 Within this menu, if `BR2_EXTERNAL` was set, you should see an option at the
 bottom of "`External options --->`".
