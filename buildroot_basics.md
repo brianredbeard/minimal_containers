@@ -469,8 +469,9 @@ And, let's see how we did:
 $ docker images taskd:v1.1.0
 REPOSITORY      TAG           IMAGE ID          CREATED          SIZE
 taskd           v1.1.0        460efd827d14      42 seconds ago   12.25 MB
-``
-Looking good at 12.25MB.`
+```
+
+Looking good at 12.25MB.
 
 ### Getting started with our container
 
